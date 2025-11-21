@@ -1,0 +1,3 @@
+git init
+
+git comit -m "chore: initial project files - resume site structure"

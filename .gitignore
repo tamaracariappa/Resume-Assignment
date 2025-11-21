@@ -1,0 +1,18 @@
+# VSCode
+.vscode/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# node / build (if you ever add Node tooling)
+node_modules/
+dist/
+build/
+
+# Python venv (if you use Python)
+.venv/
+env/
+
+# secrets
+*.env
