@@ -1,0 +1,9 @@
+:root {
+  --bg: #FAF4D4;         /* page background */
+  --accent: #F8A8B9;     /* highlights, buttons, borders */
+  --primary: #660005;    /* headings + text */
+  --card: #ffffff;       /* card backgrounds */
+  --muted: #8b4a59;      /* softer maroon for subtitles */
+  --font-heading: 'Merriweather', serif;
+  --font-body: 'Inter', sans-serif;
+}
